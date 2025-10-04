@@ -22,8 +22,9 @@ Python • Jupyter Notebook • TensorFlow/Keras • Pandas • NumPy • Matplo
 
 ### Run Instructions
 ```bash
-git clone https://github.com/<your-username>/task3.git
-cd task3
+git [clone https://github.com/<your-username>/task3.git](https://github.com/AdilJabbar146686/Multimodal-ML-Housing-Price-Prediction-Using-Images-Tabular-Data.git)
+cd Multimodal ML – Housing Price Prediction Using Images + Tabular
+Data
 pip install -r requirements.txt
 jupyter notebook task3.ipynb
 # Load Saved Model
